@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Polaris/polaris.lua/main/loader.lua"))()
+loadstring(game:HttpGet(
+    "https://raw.githubusercontent.com/PolarisDev/polaris-hub/main/loader.lua"
+))()
